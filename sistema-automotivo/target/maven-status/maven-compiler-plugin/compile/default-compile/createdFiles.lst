@@ -1,0 +1,9 @@
+com\wesley\automotivo\model\Marca.class
+com\wesley\automotivo\controller\MarcaController.class
+com\wesley\automotivo\repository\VeiculoRepository.class
+com\wesley\automotivo\model\Veiculo.class
+com\wesley\automotivo\service\MarcaService.class
+com\wesley\automotivo\repository\MarcaRepository.class
+com\wesley\automotivo\service\VeiculoService.class
+com\wesley\automotivo\SistemaAutomotivoApplication.class
+com\wesley\automotivo\controller\VeiculoController.class
